@@ -23,7 +23,7 @@ A medida que complete los proyectos, iré marcando mi progreso:
 - [x] **02 - Validador de Acceso:** Condicionales y operadores lógicos.
 - [x] **03 - Calculadora de Suplementos:** Condicionales anidados y rangos numéricos.
 - [x] **04 - Menú de Cajero Automático:** Estructuras `switch`.
-- [ ] **05 - Sistema de Ingreso:** Ciclos `while` (validación continua).
+- [x] **05 - Sistema de Ingreso:** Ciclos `while` (validación continua).
 - [ ] **06 - Simulador de Plazo Fijo:** Ciclos `do-while`.
 - [ ] **07 - Cronómetro de Entrenamiento:** Ciclos definidos `for`.
 - [ ] **08 - Conversor de Monedas:** Menús interactivos cíclicos (`switch` + `while`).
