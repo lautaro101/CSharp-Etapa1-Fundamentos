@@ -20,7 +20,7 @@ Durante el desarrollo de estos proyectos, puse en práctica los siguientes funda
 A medida que complete los proyectos, iré marcando mi progreso:
 
 - [x] **01 - Calculadora de Presupuesto:** Variables, operaciones y condicionales simples.
-- [ ] **02 - Validador de Acceso:** Condicionales y operadores lógicos.
+- [x] **02 - Validador de Acceso:** Condicionales y operadores lógicos.
 - [ ] **03 - Calculadora de Suplementos:** Condicionales anidados y rangos numéricos.
 - [ ] **04 - Menú de Cajero Automático:** Estructuras `switch`.
 - [ ] **05 - Sistema de Ingreso:** Ciclos `while` (validación continua).
