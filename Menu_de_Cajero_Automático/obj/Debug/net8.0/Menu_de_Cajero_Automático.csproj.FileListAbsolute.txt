@@ -1,0 +1,14 @@
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Menu_de_Cajero_Automático\obj\Debug\net8.0\Menu_de_Cajero_Automático.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Menu_de_Cajero_Automático\obj\Debug\net8.0\Menu_de_Cajero_Automático.AssemblyInfoInputs.cache
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Menu_de_Cajero_Automático\obj\Debug\net8.0\Menu_de_Cajero_Automático.AssemblyInfo.cs
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Menu_de_Cajero_Automático\obj\Debug\net8.0\Menu_de_Cajero_Automático.csproj.CoreCompileInputs.cache
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Menu_de_Cajero_Automático\bin\Debug\net8.0\Menu_de_Cajero_Automático.exe
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Menu_de_Cajero_Automático\bin\Debug\net8.0\Menu_de_Cajero_Automático.deps.json
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Menu_de_Cajero_Automático\bin\Debug\net8.0\Menu_de_Cajero_Automático.runtimeconfig.json
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Menu_de_Cajero_Automático\bin\Debug\net8.0\Menu_de_Cajero_Automático.dll
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Menu_de_Cajero_Automático\bin\Debug\net8.0\Menu_de_Cajero_Automático.pdb
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Menu_de_Cajero_Automático\obj\Debug\net8.0\Menu_de_Cajero_Automático.dll
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Menu_de_Cajero_Automático\obj\Debug\net8.0\refint\Menu_de_Cajero_Automático.dll
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Menu_de_Cajero_Automático\obj\Debug\net8.0\Menu_de_Cajero_Automático.pdb
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Menu_de_Cajero_Automático\obj\Debug\net8.0\Menu_de_Cajero_Automático.genruntimeconfig.cache
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Menu_de_Cajero_Automático\obj\Debug\net8.0\ref\Menu_de_Cajero_Automático.dll
