@@ -27,6 +27,9 @@ namespace Validador_de_Acceso
             {
                 Console.WriteLine("Acceso Denegado");
             }
+            Console.ReadKey();
+
+            
 
         }
     
