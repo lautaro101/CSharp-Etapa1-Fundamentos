@@ -1,0 +1,14 @@
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\cronometro_de_entrenaminto\bin\Debug\net8.0\cronometro_de_entrenaminto.exe
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\cronometro_de_entrenaminto\bin\Debug\net8.0\cronometro_de_entrenaminto.deps.json
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\cronometro_de_entrenaminto\bin\Debug\net8.0\cronometro_de_entrenaminto.runtimeconfig.json
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\cronometro_de_entrenaminto\bin\Debug\net8.0\cronometro_de_entrenaminto.dll
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\cronometro_de_entrenaminto\bin\Debug\net8.0\cronometro_de_entrenaminto.pdb
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\cronometro_de_entrenaminto\obj\Debug\net8.0\cronometro_de_entrenaminto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\cronometro_de_entrenaminto\obj\Debug\net8.0\cronometro_de_entrenaminto.AssemblyInfoInputs.cache
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\cronometro_de_entrenaminto\obj\Debug\net8.0\cronometro_de_entrenaminto.AssemblyInfo.cs
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\cronometro_de_entrenaminto\obj\Debug\net8.0\cronometro_de_entrenaminto.csproj.CoreCompileInputs.cache
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\cronometro_de_entrenaminto\obj\Debug\net8.0\cronometro_de_entrenaminto.dll
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\cronometro_de_entrenaminto\obj\Debug\net8.0\refint\cronometro_de_entrenaminto.dll
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\cronometro_de_entrenaminto\obj\Debug\net8.0\cronometro_de_entrenaminto.pdb
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\cronometro_de_entrenaminto\obj\Debug\net8.0\cronometro_de_entrenaminto.genruntimeconfig.cache
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\cronometro_de_entrenaminto\obj\Debug\net8.0\ref\cronometro_de_entrenaminto.dll
