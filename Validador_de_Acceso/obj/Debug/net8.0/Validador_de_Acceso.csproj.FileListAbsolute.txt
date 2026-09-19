@@ -1,0 +1,14 @@
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Validador_de_Acceso\bin\Debug\net8.0\Validador_de_Acceso.exe
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Validador_de_Acceso\bin\Debug\net8.0\Validador_de_Acceso.deps.json
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Validador_de_Acceso\bin\Debug\net8.0\Validador_de_Acceso.runtimeconfig.json
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Validador_de_Acceso\bin\Debug\net8.0\Validador_de_Acceso.dll
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Validador_de_Acceso\bin\Debug\net8.0\Validador_de_Acceso.pdb
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Validador_de_Acceso\obj\Debug\net8.0\Validador_de_Acceso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Validador_de_Acceso\obj\Debug\net8.0\Validador_de_Acceso.AssemblyInfoInputs.cache
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Validador_de_Acceso\obj\Debug\net8.0\Validador_de_Acceso.AssemblyInfo.cs
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Validador_de_Acceso\obj\Debug\net8.0\Validador_de_Acceso.csproj.CoreCompileInputs.cache
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Validador_de_Acceso\obj\Debug\net8.0\Validador_de_Acceso.dll
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Validador_de_Acceso\obj\Debug\net8.0\refint\Validador_de_Acceso.dll
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Validador_de_Acceso\obj\Debug\net8.0\Validador_de_Acceso.pdb
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Validador_de_Acceso\obj\Debug\net8.0\Validador_de_Acceso.genruntimeconfig.cache
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Validador_de_Acceso\obj\Debug\net8.0\ref\Validador_de_Acceso.dll
