@@ -1,0 +1,14 @@
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Simulador_de_Plazo_Fijo\bin\Debug\net8.0\Simulador_de_Plazo_Fijo.exe
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Simulador_de_Plazo_Fijo\bin\Debug\net8.0\Simulador_de_Plazo_Fijo.deps.json
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Simulador_de_Plazo_Fijo\bin\Debug\net8.0\Simulador_de_Plazo_Fijo.runtimeconfig.json
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Simulador_de_Plazo_Fijo\bin\Debug\net8.0\Simulador_de_Plazo_Fijo.dll
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Simulador_de_Plazo_Fijo\bin\Debug\net8.0\Simulador_de_Plazo_Fijo.pdb
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Simulador_de_Plazo_Fijo\obj\Debug\net8.0\Simulador_de_Plazo_Fijo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Simulador_de_Plazo_Fijo\obj\Debug\net8.0\Simulador_de_Plazo_Fijo.AssemblyInfoInputs.cache
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Simulador_de_Plazo_Fijo\obj\Debug\net8.0\Simulador_de_Plazo_Fijo.AssemblyInfo.cs
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Simulador_de_Plazo_Fijo\obj\Debug\net8.0\Simulador_de_Plazo_Fijo.csproj.CoreCompileInputs.cache
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Simulador_de_Plazo_Fijo\obj\Debug\net8.0\Simulador_de_Plazo_Fijo.dll
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Simulador_de_Plazo_Fijo\obj\Debug\net8.0\refint\Simulador_de_Plazo_Fijo.dll
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Simulador_de_Plazo_Fijo\obj\Debug\net8.0\Simulador_de_Plazo_Fijo.pdb
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Simulador_de_Plazo_Fijo\obj\Debug\net8.0\Simulador_de_Plazo_Fijo.genruntimeconfig.cache
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Simulador_de_Plazo_Fijo\obj\Debug\net8.0\ref\Simulador_de_Plazo_Fijo.dll
