@@ -1,0 +1,14 @@
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Sistema_de_Ingreso_con_Contraseña\obj\Debug\net8.0\Sistema_de_Ingreso_con_Contraseña.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Sistema_de_Ingreso_con_Contraseña\obj\Debug\net8.0\Sistema_de_Ingreso_con_Contraseña.AssemblyInfoInputs.cache
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Sistema_de_Ingreso_con_Contraseña\obj\Debug\net8.0\Sistema_de_Ingreso_con_Contraseña.AssemblyInfo.cs
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Sistema_de_Ingreso_con_Contraseña\obj\Debug\net8.0\Sistema_de_Ingreso_con_Contraseña.csproj.CoreCompileInputs.cache
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Sistema_de_Ingreso_con_Contraseña\bin\Debug\net8.0\Sistema_de_Ingreso_con_Contraseña.exe
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Sistema_de_Ingreso_con_Contraseña\bin\Debug\net8.0\Sistema_de_Ingreso_con_Contraseña.deps.json
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Sistema_de_Ingreso_con_Contraseña\bin\Debug\net8.0\Sistema_de_Ingreso_con_Contraseña.runtimeconfig.json
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Sistema_de_Ingreso_con_Contraseña\bin\Debug\net8.0\Sistema_de_Ingreso_con_Contraseña.dll
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Sistema_de_Ingreso_con_Contraseña\bin\Debug\net8.0\Sistema_de_Ingreso_con_Contraseña.pdb
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Sistema_de_Ingreso_con_Contraseña\obj\Debug\net8.0\Sistema_de_Ingreso_con_Contraseña.dll
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Sistema_de_Ingreso_con_Contraseña\obj\Debug\net8.0\refint\Sistema_de_Ingreso_con_Contraseña.dll
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Sistema_de_Ingreso_con_Contraseña\obj\Debug\net8.0\Sistema_de_Ingreso_con_Contraseña.pdb
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Sistema_de_Ingreso_con_Contraseña\obj\Debug\net8.0\Sistema_de_Ingreso_con_Contraseña.genruntimeconfig.cache
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Sistema_de_Ingreso_con_Contraseña\obj\Debug\net8.0\ref\Sistema_de_Ingreso_con_Contraseña.dll
