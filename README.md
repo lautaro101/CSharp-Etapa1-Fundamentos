@@ -14,6 +14,11 @@ Durante el desarrollo de estos proyectos, puse en práctica los siguientes funda
 - Operadores aritméticos, relacionales y lógicos.
 - Estructuras de control de flujo y decisión (`if`, `else if`, `else`, `switch`).
 - Estructuras iterativas y bucles (`while`, `do-while`, `for`).
+- Estructuras iterativas simplificadas (`foreach`).
+- Colecciones de datos: Declaración, llenado y recorrido de Arreglos / Arrays unidimensionales (`tipo[] nombre = new tipo[tamaño]`).
+- Lógica algorítmica fundamental: Uso de Acumuladores y Contadores dentro de ciclos.
+- Complejidad estructural: Ciclos anidados y condicionales anidados (estructuras dentro de otras estructuras).
+- Control de la consola y Experiencia de Usuario (UX): Limpieza de pantalla (`Console.Clear()`), pausas de ejecución (`Thread.Sleep()`), interrupciones (`Console.ReadKey()`) y alertas sonoras (`Console.Beep()`).
 
 ## Proyectos de la Etapa 1
 
