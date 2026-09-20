@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Caja_Registradora_Expreso/1.0.0": {
+        "runtime": {
+          "Caja_Registradora_Expreso.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Caja_Registradora_Expreso/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

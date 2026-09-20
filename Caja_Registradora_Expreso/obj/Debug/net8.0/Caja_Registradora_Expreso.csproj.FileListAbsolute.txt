@@ -1,0 +1,14 @@
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Caja_Registradora_Expreso\bin\Debug\net8.0\Caja_Registradora_Expreso.exe
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Caja_Registradora_Expreso\bin\Debug\net8.0\Caja_Registradora_Expreso.deps.json
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Caja_Registradora_Expreso\bin\Debug\net8.0\Caja_Registradora_Expreso.runtimeconfig.json
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Caja_Registradora_Expreso\bin\Debug\net8.0\Caja_Registradora_Expreso.dll
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Caja_Registradora_Expreso\bin\Debug\net8.0\Caja_Registradora_Expreso.pdb
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Caja_Registradora_Expreso\obj\Debug\net8.0\Caja_Registradora_Expreso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Caja_Registradora_Expreso\obj\Debug\net8.0\Caja_Registradora_Expreso.AssemblyInfoInputs.cache
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Caja_Registradora_Expreso\obj\Debug\net8.0\Caja_Registradora_Expreso.AssemblyInfo.cs
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Caja_Registradora_Expreso\obj\Debug\net8.0\Caja_Registradora_Expreso.csproj.CoreCompileInputs.cache
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Caja_Registradora_Expreso\obj\Debug\net8.0\Caja_Registradora_Expreso.dll
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Caja_Registradora_Expreso\obj\Debug\net8.0\refint\Caja_Registradora_Expreso.dll
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Caja_Registradora_Expreso\obj\Debug\net8.0\Caja_Registradora_Expreso.pdb
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Caja_Registradora_Expreso\obj\Debug\net8.0\Caja_Registradora_Expreso.genruntimeconfig.cache
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Caja_Registradora_Expreso\obj\Debug\net8.0\ref\Caja_Registradora_Expreso.dll
