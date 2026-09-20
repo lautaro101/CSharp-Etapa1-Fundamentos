@@ -33,7 +33,7 @@ A medida que complete los proyectos, iré marcando mi progreso:
 - [x] **07 - Cronómetro de Entrenamiento:** Ciclos definidos `for`.
 - [x] **08 - Registro de Series de Entrenamiento:** Arreglos (Arrays) y ciclos `for`.
 - [x] **09 - Promedio de Calificaciones:** Acumuladores y ciclo `foreach`.(`switch` + `while`).
-- [ ] **10 - Caja Registradora Expreso:** Acumuladores y ciclos anidados.
-
+- [x] **10 - Caja Registradora Expreso:** Acumuladores y ciclos anidados (`do-while` dentro de `do-while`).
+- [x] **11 - PROYECTO INTEGRADOR (Sistema de Taller):** Desarrollo de un sistema de gestión interactivo combinando Menús, Arreglos Paralelos, Ciclos y Validaciones de Seguridad.
 ---
 *Este repositorio es parte de mi portafolio personal de aprendizaje y crecimiento profesional en el ecosistema .NET.*
