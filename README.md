@@ -26,8 +26,8 @@ A medida que complete los proyectos, iré marcando mi progreso:
 - [x] **05 - Sistema de Ingreso:** Ciclos `while` (validación continua).
 - [x] **06 - Simulador de Plazo Fijo:** Ciclos `do-while`.
 - [x] **07 - Cronómetro de Entrenamiento:** Ciclos definidos `for`.
-- [ ] **08 - Conversor de Monedas:** Menús interactivos cíclicos (`switch` + `while`).
-- [ ] **09 - Adivina el Número:** Lógica, contadores y bucles.
+- [x] **08 - Registro de Series de Entrenamiento:** Arreglos (Arrays) y ciclos `for`.
+- [x] **09 - Promedio de Calificaciones:** Acumuladores y ciclo `foreach`.(`switch` + `while`).
 - [ ] **10 - Caja Registradora Expreso:** Acumuladores y ciclos anidados.
 
 ---
