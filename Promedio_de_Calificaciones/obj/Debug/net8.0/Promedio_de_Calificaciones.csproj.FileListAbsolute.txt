@@ -1,0 +1,14 @@
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Promedio_de_Calificaciones\bin\Debug\net8.0\Promedio_de_Calificaciones.exe
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Promedio_de_Calificaciones\bin\Debug\net8.0\Promedio_de_Calificaciones.deps.json
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Promedio_de_Calificaciones\bin\Debug\net8.0\Promedio_de_Calificaciones.runtimeconfig.json
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Promedio_de_Calificaciones\bin\Debug\net8.0\Promedio_de_Calificaciones.dll
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Promedio_de_Calificaciones\bin\Debug\net8.0\Promedio_de_Calificaciones.pdb
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Promedio_de_Calificaciones\obj\Debug\net8.0\Promedio_de_Calificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Promedio_de_Calificaciones\obj\Debug\net8.0\Promedio_de_Calificaciones.AssemblyInfoInputs.cache
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Promedio_de_Calificaciones\obj\Debug\net8.0\Promedio_de_Calificaciones.AssemblyInfo.cs
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Promedio_de_Calificaciones\obj\Debug\net8.0\Promedio_de_Calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Promedio_de_Calificaciones\obj\Debug\net8.0\Promedio_de_Calificaciones.dll
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Promedio_de_Calificaciones\obj\Debug\net8.0\refint\Promedio_de_Calificaciones.dll
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Promedio_de_Calificaciones\obj\Debug\net8.0\Promedio_de_Calificaciones.pdb
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Promedio_de_Calificaciones\obj\Debug\net8.0\Promedio_de_Calificaciones.genruntimeconfig.cache
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Promedio_de_Calificaciones\obj\Debug\net8.0\ref\Promedio_de_Calificaciones.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Registro_de_Series_de_Entrenamiento/1.0.0": {
+        "runtime": {
+          "Registro_de_Series_de_Entrenamiento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Registro_de_Series_de_Entrenamiento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

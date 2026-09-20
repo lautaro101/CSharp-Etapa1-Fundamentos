@@ -1,0 +1,14 @@
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Registro_de_Series_de_Entrenamiento\bin\Debug\net8.0\Registro_de_Series_de_Entrenamiento.exe
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Registro_de_Series_de_Entrenamiento\bin\Debug\net8.0\Registro_de_Series_de_Entrenamiento.deps.json
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Registro_de_Series_de_Entrenamiento\bin\Debug\net8.0\Registro_de_Series_de_Entrenamiento.runtimeconfig.json
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Registro_de_Series_de_Entrenamiento\bin\Debug\net8.0\Registro_de_Series_de_Entrenamiento.dll
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Registro_de_Series_de_Entrenamiento\bin\Debug\net8.0\Registro_de_Series_de_Entrenamiento.pdb
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Registro_de_Series_de_Entrenamiento\obj\Debug\net8.0\Registro_de_Series_de_Entrenamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Registro_de_Series_de_Entrenamiento\obj\Debug\net8.0\Registro_de_Series_de_Entrenamiento.AssemblyInfoInputs.cache
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Registro_de_Series_de_Entrenamiento\obj\Debug\net8.0\Registro_de_Series_de_Entrenamiento.AssemblyInfo.cs
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Registro_de_Series_de_Entrenamiento\obj\Debug\net8.0\Registro_de_Series_de_Entrenamiento.csproj.CoreCompileInputs.cache
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Registro_de_Series_de_Entrenamiento\obj\Debug\net8.0\Registro_de_Series_de_Entrenamiento.dll
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Registro_de_Series_de_Entrenamiento\obj\Debug\net8.0\refint\Registro_de_Series_de_Entrenamiento.dll
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Registro_de_Series_de_Entrenamiento\obj\Debug\net8.0\Registro_de_Series_de_Entrenamiento.pdb
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Registro_de_Series_de_Entrenamiento\obj\Debug\net8.0\Registro_de_Series_de_Entrenamiento.genruntimeconfig.cache
+C:\Users\lauty\Documents\Trabajos\Programacion\C#\CSharp-Etapa1-Fundamentos\Registro_de_Series_de_Entrenamiento\obj\Debug\net8.0\ref\Registro_de_Series_de_Entrenamiento.dll
